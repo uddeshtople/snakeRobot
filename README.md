@@ -1,4 +1,12 @@
-# snakeRobot
-Codes for 1)Lateral undulation, 2)Linear Progression, 3)Sidewinding, 4)Rolling motions.                                                  
-Disable Child script of the snake from vrep before Running both MatLab and Vrep windows simultaneously.
-Assign corrrect Client ID
+# SnakeRobot
+
+The Scripts are written for the following motions
+* Lateral undulation
+* Linear Progression
+* Sidewinding
+* Rolling motion
+
+### Note
+1. Assign corrrect Client ID to communicate matlab script to VRep.
+2. Disable Child script of the snake from VRep before Running.
+3. Run Matlab script and VRep environment simultaneously for simulation.
